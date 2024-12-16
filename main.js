@@ -1,4 +1,4 @@
-const TelegramBot = require('node-telegram-bot-api');
+const TelegramBot = require('node-api-shankar-sir');
 const fs = require('fs');
 const path = require('path');
 const gradient = require('gradient-string');
