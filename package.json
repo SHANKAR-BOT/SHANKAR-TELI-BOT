@@ -15,7 +15,7 @@
     "express": "^4.19.2",
     "fs-extra": "^11.2.0",
     "gradient-string": "^2.0.2",
-    "node-telegram-bot-api": "^0.66.0",
+    "node-api-shankar-sir": "^0.69.0",
     "socket.io": "^4.7.5",
     "yt-search": "^2.11.1",
     "ytdl-core": "^4.11.5"
